@@ -10,7 +10,7 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 
 | Partei                     | Anreise  | Abreise
 | ---------------------------| ---------|-----------
-| Denise, Chris, Milla, Ari  |          | 
+| Denise, Chris, Milla, Ari  | Fr. Nami | 
 | Michel                     |          |
 | Patrizia, Adi, Ellen, Nico |          |
 | Patrizia, Anna, Jan        |          |
