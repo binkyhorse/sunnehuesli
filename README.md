@@ -1,7 +1,7 @@
 # Sunnehuesli 24.--26. Oktober 2025
 IKMB goes Sunnehuesli
 
-Informationen zur Unterkunft: [https://www.scchristiania.ch/unser-clubhaus/](https://www.weggis-vitznau.ch/de/hotel/sunnehuesli)
+Informationen zur Unterkunft: https://www.weggis-vitznau.ch/de/hotel/sunnehuesli
 
 
 # Anreise
