@@ -1,4 +1,4 @@
-# Sunnehüsli 24.--26. Oktober 2025
+# Sunnehüsli 24. -- 26. Oktober 2025
 IKMB goes Sunnehüsli
 
 Informationen zur Unterkunft: https://www.weggis-vitznau.ch/de/hotel/sunnehuesli
