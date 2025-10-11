@@ -1,5 +1,5 @@
 # Sunnehuesli 24.--26. Oktober 2025
-IKMB goes Sunnehuesli
+IKMB goes Sunnehüsli
 
 Informationen zur Unterkunft: https://www.weggis-vitznau.ch/de/hotel/sunnehuesli
 
@@ -30,18 +30,12 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 
 
 # Mitbringen Küche
-Salz, Pfeffer, Öl, Essig muss man alles mitnehmen. Bringt Chris.
+TBD
 
 # Mitbringen allgemein
-WC-Papier, Küchentücher. Bringt Dani.
+TBD
 
 # Bringt jede Partei für sich
-- Ein paar Einfränkler zum Duschen (3 x 1 Fr. -> beide Duschen ein paar Minuten warm)
-- Schlafsack
-- Hüttenfinken (Boden kann kalt sein), warme Socken
-
+-TBD
 # Putzen
-Wir müssen die Hütte putzen. Ein WC abschliessen -> weniger Aufwand.
-
-
-
+Wir müssen die Hütte putzen. 
