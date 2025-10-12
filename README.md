@@ -8,14 +8,17 @@ Informationen zur Unterkunft: https://www.weggis-vitznau.ch/de/hotel/sunnehuesli
 Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 
 
-| Partei                     | Anreise  | Abreise
-| ---------------------------| ---------|-----------
-| Denise, Chris, Milla, Ari  | Fr. Nami | 
-| Michel                     |          |
-| Patrizia, Adi, Ellen, Nico |          |
-| Patrizia, Anna, Jan        |          |
-| Sonja, Jonas, Mara, Julian |          |
-| Nicole, Dani, Lionel       |          |
+| Partei                     | Anreise    | Abreise
+| ---------------------------| -----------|-----------
+| Denise, Chris, Milla, Ari  | Fr. Nami   | So.
+| Michel                     | Fr.        | So.
+| Patrizia, Adi, Ellen, Nico |            | So.
+| Patrizia, Anna, Jan        |            |
+| Sonja                      | (Sa.?)     |
+| Nicole                     | Sa. Mittag |
+| Dani, Lionel               | Fr. 16.26  |
+| Carole, Sämi, Gil          | Fr.        | So.
+
 
 
 # Menuplan
@@ -24,7 +27,7 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 | Fr. Abend  | Chris          | 
 | Sa. Morgen |                |
 | Sa. Mittag |                |
-| Sa. Abend  |                |
+| Sa. Abend  | Adi            |
 | So. Morgen |                |
 | So. Mittag |                |
 
