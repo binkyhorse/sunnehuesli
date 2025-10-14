@@ -35,12 +35,14 @@ Total: 19 Personen
 
 
 # Mitbringen Küche
-TBD
+Alle Küchenwäsche: Handtücher, Lumpen, etc.
+
 
 # Mitbringen allgemein
 TBD
 
 # Bringt jede Partei für sich
--TBD
+Bettwäsche, Frottéwäsche (es hat Kissen und Duvets, aber keine Anzüge). evtl. Schlafsack mitnehmen
+
 # Putzen
 Wir müssen die Hütte putzen. 
