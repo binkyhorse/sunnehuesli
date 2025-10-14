@@ -21,7 +21,7 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 | Dani, Lionel               | Fr. 16.26  |
 | Carole, Sämi, Gil          | Fr.        | So.
 
-
+Total: 19 Personen
 
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
