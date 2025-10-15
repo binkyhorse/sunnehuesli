@@ -16,7 +16,7 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 | Michel                     | Fr.        | So.
 | Patrizia, Adi, Ellen, Nico |            | So.
 | Patrizia, Anna, Jan        |            |
-| Sonja                      | (Sa.?)     |
+| Sonja                      | Fr. 17.51  |
 | Nicole                     | Sa. Mittag |
 | Dani, Lionel               | Fr. 16.26  |
 | Carole, Sämi, Gil          | Fr.        | So.
@@ -26,7 +26,7 @@ Total: 19 Personen
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
 | -----------| -------------- |------
-| Fr. Abend  | Chris          | 
+| Fr. Abend  | Sonja          | 
 | Sa. Morgen |                |
 | Sa. Mittag |                |
 | Sa. Abend  | Adi            |
