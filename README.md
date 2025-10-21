@@ -14,19 +14,19 @@ Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
 | ---------------------------| -----------|-----------
 | Denise, Chris, Milla, Ari  | Fr. Nami   | So.
 | Michel                     | Fr.        | So.
-| Patrizia, Adi, Ellen, Nico |            | So.
-| Patrizia, Anna, Jan        |            |
+| Patrizia, Adi, Ellen, Nico | Sa. Vormi  | So.
+| Patrizia, Anna, Jan        | Fr. 19.45  |
 | Sonja                      | Fr. 17.51  |
 | Nicole                     | Sa. Mittag |
 | Dani, Lionel               | Fr. 16.26  |
-| Carole, Sämi, Gil          | Fr.        | So.
+| Carole, Sämi, Gil          | Fr. 19.45  | So.
 
 Total: 19 Personen
 
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
 | -----------| -------------- |------
-| Fr. Abend  | Sonja          | Pizza
+| Fr. Abend  | Sonja          | Pizza (+Patriza S. + Carole)
 | Sa. Morgen | Patrizia S.    | -- 
 | Sa. Mittag | --             | --
 | Sa. Abend  | Adi            | Älpler Makkaroni
