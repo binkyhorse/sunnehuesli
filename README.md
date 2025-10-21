@@ -26,12 +26,12 @@ Total: 19 Personen
 # Menuplan
 | Mahlzeit   | Verantwortlich | Menu
 | -----------| -------------- |------
-| Fr. Abend  | Sonja          | 
-| Sa. Morgen |                |
-| Sa. Mittag |                |
-| Sa. Abend  | Adi            |
-| So. Morgen |                |
-| So. Mittag |                |
+| Fr. Abend  | Sonja          | Pizza
+| Sa. Morgen | Patrizia S.    | -- 
+| Sa. Mittag | --             | --
+| Sa. Abend  | Adi            | Älpler Makkaroni
+| So. Morgen | Sämi           | --
+| So. Mittag | --             | --
 
 
 # Mitbringen Küche
