@@ -45,4 +45,12 @@ TBD
 Bettwäsche, Frottéwäsche (es hat Kissen und Duvets, aber keine Anzüge). evtl. Schlafsack mitnehmen
 
 # Putzen
-Wir müssen die Hütte putzen. 
+Wir putzen einen Teil, der Abwart den Rest.
+
+Endreinigung kostet 300 Franken (-> Chris twinten Herr Siebenhaar)
+
+Unser Job:
+ - Tische stapeln
+ - Besenrein putzen 
+ - Betten so hinterlassen wie sie jetzt sind (wolldecke, es hat Fotos an den Zimmern)
+ - Geschirrspüler leeren, Wasser ablassen
