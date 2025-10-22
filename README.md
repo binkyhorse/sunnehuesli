@@ -45,7 +45,7 @@ TBD
 Bettwäsche, Frottéwäsche (es hat Kissen und Duvets, aber keine Anzüge). evtl. Schlafsack mitnehmen
 
 # Putzen
-Wir putzen einen Teil, der Abwart den Rest.
+Wir putzen einen Teil, der Abwart den Rest (-> Chris ihn am Sonntag anrufen, sobald wir gehen wollen)
 
 Endreinigung kostet 300 Franken (-> Chris twinten Herr Siebenhaar)
 
