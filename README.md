@@ -3,8 +3,6 @@ IKMB goes Sunnehüsli
 
 Informationen zur Unterkunft: https://www.weggis-vitznau.ch/de/hotel/sunnehuesli
 
-Hüttenwartin Gabriela Joller, Tel. +41 78 831 41 71, E-Mail: g.joller@gmx.ch
-
 
 # Anreise
 Ab Freitag, 14 Uhr möglich. Wir sind sicher im Verlauf des Fr. Nachmittags da.
