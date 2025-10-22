@@ -50,5 +50,5 @@ Endreinigung kostet 300 Franken (-> Chris twinten Herr Siebenhaar)
 Unser Job:
  - Tische stapeln
  - Besenrein putzen 
- - Betten so hinterlassen wie sie jetzt sind (wolldecke, es hat Fotos an den Zimmern)
+ - Betten so hinterlassen wie sie jetzt sind (es hat Fotos an den Zimmern)
  - Geschirrspüler leeren, Wasser ablassen
